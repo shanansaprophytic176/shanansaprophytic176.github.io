@@ -4,6 +4,7 @@ date: 2026-07-16
 draft: false
 tags: ["密码学", "同态加密", "SEAL"]
 categories: ["隐私计算"]
+description: "Microsoft SEAL 同态加密库入门教程，从基本原理到代码实战，带你快速上手 BFV 和 CKKS 方案。"
 ---
 
 ## 什么是同态加密？

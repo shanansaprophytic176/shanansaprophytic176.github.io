@@ -4,6 +4,7 @@ date: 2026-07-16
 draft: false
 tags: ["Markdown", "教程", "写作"]
 categories: ["技术分享"]
+description: "Markdown 常用语法速查，涵盖标题、文本样式、列表、代码块、表格、引用等常用格式。"
 ---
 
 Markdown 是一种轻量级标记语言，让你可以用纯文本格式编写文档。以下是常用语法总结。

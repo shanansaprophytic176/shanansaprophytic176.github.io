@@ -4,6 +4,7 @@ date: 2026-07-16
 draft: false
 tags: ["博客", "入门"]
 categories: ["综合"]
+description: "欢迎来到 METEOR 博客——使用 Hugo 和 Stack 主题构建，支持暗色模式、全文搜索和代码高亮。"
 ---
 
 欢迎来到我的博客！这是我使用 Hugo Theme Stack 发布的第一篇文章。

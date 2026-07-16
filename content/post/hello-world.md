@@ -4,6 +4,7 @@ date: 2026-07-16
 draft: false
 tags: ["blog", "intro"]
 categories: ["General"]
+description: "Welcome to METEOR blog — built with Hugo and Stack theme, featuring dark mode, full-text search, and code highlighting."
 ---
 
 Welcome to my blog! This is my first post using Hugo Theme Stack.

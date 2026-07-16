@@ -4,6 +4,7 @@ date: 2026-07-15
 draft: false
 tags: ["密码学", "不经意传输", "MPC"]
 categories: ["隐私计算"]
+description: "深入介绍 libOTe 库的实现原理与使用方式，涵盖不经意传输扩展、Silent OT 等核心概念。"
 ---
 
 ## 什么是不经意传输？

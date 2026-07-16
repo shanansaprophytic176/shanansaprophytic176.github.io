@@ -4,6 +4,7 @@ date: 2026-07-14
 draft: false
 tags: ["密码学", "PSI", "隐私计算"]
 categories: ["隐私计算"]
+description: "深入解析 Vole-PSI 协议原理，介绍基于向量 OLE 的高效隐私集合交集实现方案。"
 ---
 
 ## 什么是隐私集合交集（PSI）？

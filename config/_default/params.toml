@@ -7,7 +7,7 @@ rssFullContent = true
 
 [sidebar]
     emoji    = " meteor"
-    avatar   = ""
+    avatar   = "https://github.com/METEOR-ECHO.png"
 
 [article]
     math     = false

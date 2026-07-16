@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="meteor-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316"/>
+      <stop offset="100%" style="stop-color:#ec4899"/>
+    </linearGradient>
+    <linearGradient id="trail-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <!-- Trail -->
+  <path d="M 85 85 L 30 30" stroke="url(#trail-grad)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Meteor head -->
+  <circle cx="75" cy="75" r="16" fill="url(#meteor-grad)"/>
+  <!-- Highlight -->
+  <circle cx="70" cy="70" r="6" fill="rgba(255,255,255,0.5)"/>
+</svg>

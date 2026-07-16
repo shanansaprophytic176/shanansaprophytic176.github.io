@@ -1,8 +1,8 @@
 baseURL                = "https://METEOR-ECHO.github.io/"
-locale                  = "en-us"
+locale                  = "zh-cn"
 title                   = "METEOR"
 theme                   = "hugo-theme-stack"
-defaultContentLanguage  = "en"
+defaultContentLanguage  = "zh"
 hasCJKLanguage          = true
 
 [pagination]

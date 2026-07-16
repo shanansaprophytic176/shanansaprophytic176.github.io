@@ -2,6 +2,7 @@
 title: "博客搭建指南"
 date: 2026-07-16
 lastmod: 2026-07-16
+slug: "guide"
 layout: "single"
 menu:
     main: 

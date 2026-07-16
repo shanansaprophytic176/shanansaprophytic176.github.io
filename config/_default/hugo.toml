@@ -1,4 +1,4 @@
-baseURL                = "https://3234663254wz-dev.github.io/blog/"
+baseURL                = "https://3234663254wz-dev.github.io/"
 locale                  = "en-us"
 title                   = "METEOR"
 theme                   = "hugo-theme-stack"

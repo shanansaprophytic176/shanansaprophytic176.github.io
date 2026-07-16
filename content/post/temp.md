@@ -1,7 +1,7 @@
 ---
 title: "temp"
 date: 2026-07-16
-draft: true
+draft: false
 tags: []
 categories: ["t"]
 ---

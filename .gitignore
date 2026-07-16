@@ -1,0 +1,22 @@
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Hugo module vendor
+_vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+assets/jsconfig.json
+
+# Node modules (theme build)
+node_modules/
+
+# MiMo agent
+.mimocode/

